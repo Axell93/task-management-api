@@ -1,0 +1,11 @@
+C:\Users\anura\TaskManagement\src\TaskManagement.Domain\obj\Debug\net9.0\TaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anura\TaskManagement\src\TaskManagement.Domain\obj\Debug\net9.0\TaskManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\anura\TaskManagement\src\TaskManagement.Domain\obj\Debug\net9.0\TaskManagement.Domain.AssemblyInfo.cs
+C:\Users\anura\TaskManagement\src\TaskManagement.Domain\obj\Debug\net9.0\TaskManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\anura\TaskManagement\src\TaskManagement.Domain\bin\Debug\net9.0\TaskManagement.Domain.deps.json
+C:\Users\anura\TaskManagement\src\TaskManagement.Domain\bin\Debug\net9.0\TaskManagement.Domain.dll
+C:\Users\anura\TaskManagement\src\TaskManagement.Domain\bin\Debug\net9.0\TaskManagement.Domain.pdb
+C:\Users\anura\TaskManagement\src\TaskManagement.Domain\obj\Debug\net9.0\TaskManagement.Domain.dll
+C:\Users\anura\TaskManagement\src\TaskManagement.Domain\obj\Debug\net9.0\refint\TaskManagement.Domain.dll
+C:\Users\anura\TaskManagement\src\TaskManagement.Domain\obj\Debug\net9.0\TaskManagement.Domain.pdb
+C:\Users\anura\TaskManagement\src\TaskManagement.Domain\obj\Debug\net9.0\ref\TaskManagement.Domain.dll

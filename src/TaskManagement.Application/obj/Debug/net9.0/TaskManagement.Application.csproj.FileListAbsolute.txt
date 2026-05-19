@@ -1,0 +1,15 @@
+C:\Users\anura\TaskManagement\src\TaskManagement.Application\bin\Debug\net9.0\TaskManagement.Application.deps.json
+C:\Users\anura\TaskManagement\src\TaskManagement.Application\bin\Debug\net9.0\TaskManagement.Application.dll
+C:\Users\anura\TaskManagement\src\TaskManagement.Application\bin\Debug\net9.0\TaskManagement.Application.pdb
+C:\Users\anura\TaskManagement\src\TaskManagement.Application\bin\Debug\net9.0\TaskManagement.Domain.dll
+C:\Users\anura\TaskManagement\src\TaskManagement.Application\bin\Debug\net9.0\TaskManagement.Domain.pdb
+C:\Users\anura\TaskManagement\src\TaskManagement.Application\obj\Debug\net9.0\TaskManagement.Application.csproj.AssemblyReference.cache
+C:\Users\anura\TaskManagement\src\TaskManagement.Application\obj\Debug\net9.0\TaskManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anura\TaskManagement\src\TaskManagement.Application\obj\Debug\net9.0\TaskManagement.Application.AssemblyInfoInputs.cache
+C:\Users\anura\TaskManagement\src\TaskManagement.Application\obj\Debug\net9.0\TaskManagement.Application.AssemblyInfo.cs
+C:\Users\anura\TaskManagement\src\TaskManagement.Application\obj\Debug\net9.0\TaskManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\anura\TaskManagement\src\TaskManagement.Application\obj\Debug\net9.0\TaskMana.B5C26166.Up2Date
+C:\Users\anura\TaskManagement\src\TaskManagement.Application\obj\Debug\net9.0\TaskManagement.Application.dll
+C:\Users\anura\TaskManagement\src\TaskManagement.Application\obj\Debug\net9.0\refint\TaskManagement.Application.dll
+C:\Users\anura\TaskManagement\src\TaskManagement.Application\obj\Debug\net9.0\TaskManagement.Application.pdb
+C:\Users\anura\TaskManagement\src\TaskManagement.Application\obj\Debug\net9.0\ref\TaskManagement.Application.dll
